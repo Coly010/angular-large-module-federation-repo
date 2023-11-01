@@ -14,7 +14,308 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "remote1/Module": [
+        "apps/remotes/remote1/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote10/Module": [
+        "apps/remotes/remote10/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote100/Module": [
+        "apps/remotes/remote100/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote11/Module": [
+        "apps/remotes/remote11/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote12/Module": [
+        "apps/remotes/remote12/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote13/Module": [
+        "apps/remotes/remote13/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote14/Module": [
+        "apps/remotes/remote14/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote15/Module": [
+        "apps/remotes/remote15/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote16/Module": [
+        "apps/remotes/remote16/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote17/Module": [
+        "apps/remotes/remote17/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote18/Module": [
+        "apps/remotes/remote18/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote19/Module": [
+        "apps/remotes/remote19/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote2/Module": [
+        "apps/remotes/remote2/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote20/Module": [
+        "apps/remotes/remote20/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote21/Module": [
+        "apps/remotes/remote21/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote22/Module": [
+        "apps/remotes/remote22/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote23/Module": [
+        "apps/remotes/remote23/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote24/Module": [
+        "apps/remotes/remote24/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote25/Module": [
+        "apps/remotes/remote25/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote26/Module": [
+        "apps/remotes/remote26/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote27/Module": [
+        "apps/remotes/remote27/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote28/Module": [
+        "apps/remotes/remote28/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote29/Module": [
+        "apps/remotes/remote29/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote3/Module": [
+        "apps/remotes/remote3/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote30/Module": [
+        "apps/remotes/remote30/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote31/Module": [
+        "apps/remotes/remote31/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote32/Module": [
+        "apps/remotes/remote32/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote33/Module": [
+        "apps/remotes/remote33/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote34/Module": [
+        "apps/remotes/remote34/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote35/Module": [
+        "apps/remotes/remote35/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote36/Module": [
+        "apps/remotes/remote36/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote37/Module": [
+        "apps/remotes/remote37/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote38/Module": [
+        "apps/remotes/remote38/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote39/Module": [
+        "apps/remotes/remote39/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote4/Module": [
+        "apps/remotes/remote4/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote40/Module": [
+        "apps/remotes/remote40/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote41/Module": [
+        "apps/remotes/remote41/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote42/Module": [
+        "apps/remotes/remote42/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote43/Module": [
+        "apps/remotes/remote43/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote44/Module": [
+        "apps/remotes/remote44/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote45/Module": [
+        "apps/remotes/remote45/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote46/Module": [
+        "apps/remotes/remote46/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote47/Module": [
+        "apps/remotes/remote47/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote48/Module": [
+        "apps/remotes/remote48/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote49/Module": [
+        "apps/remotes/remote49/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote5/Module": [
+        "apps/remotes/remote5/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote50/Module": [
+        "apps/remotes/remote50/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote51/Module": [
+        "apps/remotes/remote51/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote52/Module": [
+        "apps/remotes/remote52/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote53/Module": [
+        "apps/remotes/remote53/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote54/Module": [
+        "apps/remotes/remote54/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote55/Module": [
+        "apps/remotes/remote55/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote56/Module": [
+        "apps/remotes/remote56/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote57/Module": [
+        "apps/remotes/remote57/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote58/Module": [
+        "apps/remotes/remote58/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote59/Module": [
+        "apps/remotes/remote59/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote6/Module": [
+        "apps/remotes/remote6/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote60/Module": [
+        "apps/remotes/remote60/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote61/Module": [
+        "apps/remotes/remote61/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote62/Module": [
+        "apps/remotes/remote62/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote63/Module": [
+        "apps/remotes/remote63/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote64/Module": [
+        "apps/remotes/remote64/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote65/Module": [
+        "apps/remotes/remote65/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote66/Module": [
+        "apps/remotes/remote66/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote67/Module": [
+        "apps/remotes/remote67/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote68/Module": [
+        "apps/remotes/remote68/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote69/Module": [
+        "apps/remotes/remote69/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote7/Module": [
+        "apps/remotes/remote7/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote70/Module": [
+        "apps/remotes/remote70/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote71/Module": [
+        "apps/remotes/remote71/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote72/Module": [
+        "apps/remotes/remote72/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote73/Module": [
+        "apps/remotes/remote73/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote74/Module": [
+        "apps/remotes/remote74/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote75/Module": [
+        "apps/remotes/remote75/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote76/Module": [
+        "apps/remotes/remote76/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote77/Module": [
+        "apps/remotes/remote77/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote78/Module": [
+        "apps/remotes/remote78/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote79/Module": [
+        "apps/remotes/remote79/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote8/Module": [
+        "apps/remotes/remote8/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote80/Module": [
+        "apps/remotes/remote80/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote81/Module": [
+        "apps/remotes/remote81/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote82/Module": [
+        "apps/remotes/remote82/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote83/Module": [
+        "apps/remotes/remote83/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote84/Module": [
+        "apps/remotes/remote84/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote85/Module": [
+        "apps/remotes/remote85/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote86/Module": [
+        "apps/remotes/remote86/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote87/Module": [
+        "apps/remotes/remote87/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote88/Module": [
+        "apps/remotes/remote88/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote89/Module": [
+        "apps/remotes/remote89/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote9/Module": [
+        "apps/remotes/remote9/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote90/Module": [
+        "apps/remotes/remote90/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote91/Module": [
+        "apps/remotes/remote91/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote92/Module": [
+        "apps/remotes/remote92/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote93/Module": [
+        "apps/remotes/remote93/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote94/Module": [
+        "apps/remotes/remote94/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote95/Module": [
+        "apps/remotes/remote95/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote96/Module": [
+        "apps/remotes/remote96/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote97/Module": [
+        "apps/remotes/remote97/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote98/Module": [
+        "apps/remotes/remote98/src/app/remote-entry/entry.module.ts"
+      ],
+      "remote99/Module": [
+        "apps/remotes/remote99/src/app/remote-entry/entry.module.ts"
+      ]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
