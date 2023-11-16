@@ -63,10 +63,10 @@
       },
       "configurations": {
         "production": {
-          "browserTarget": "remote3:build:production"
+          "buildTarget": "remote3:build:production"
         },
         "development": {
-          "browserTarget": "remote3:build:development"
+          "buildTarget": "remote3:build:development"
         }
       },
       "defaultConfiguration": "development"
@@ -74,7 +74,7 @@
     "extract-i18n": {
       "executor": "@angular-devkit/build-angular:extract-i18n",
       "options": {
-        "browserTarget": "remote3:build"
+        "buildTarget": "remote3:build"
       }
     },
     "lint": {
@@ -91,14 +91,7 @@
       "executor": "@nx/jest:jest",
       "outputs": ["{workspaceRoot}/coverage/{projectRoot}"],
       "options": {
-        "jestConfig": "apps/remotes/remote3/jest.config.ts",
-        "passWithNoTests": true
-      },
-      "configurations": {
-        "ci": {
-          "ci": true,
-          "codeCoverage": true
-        }
+        "jestConfig": "apps/remotes/remote3/jest.config.ts"
       }
     },
     "serve-static": {
